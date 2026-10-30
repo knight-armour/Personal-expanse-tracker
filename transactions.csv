@@ -1,0 +1,8 @@
+ID,Date,Type,Category,Amount,Payment,Note
+tx_1,2026-10-30,Expense,"Food & Dining",14.50,"Credit/Debit Card","Morning artisan coffee & bagel"
+tx_2,2026-10-30,Expense,"Groceries",45.20,"Credit/Debit Card","Supermarket weekly fruits"
+tx_3,2026-10-29,Expense,"Transportation",22.00,"UPI / Online","Metro transit card reload"
+tx_4,2026-10-28,Income,"Salary / Wages",1950.00,"Bank Transfer","Monthly engineering payroll"
+tx_5,2026-10-28,Expense,"Bills & Utilities",65.00,"UPI / Online","High-speed broadband internet"
+tx_6,2026-10-27,Expense,"Entertainment",18.99,"Credit/Debit Card","Streaming service renewal"
+tx_7,2026-10-26,Expense,"Shopping",38.40,"Credit/Debit Card","Desk lamp & organizer"
